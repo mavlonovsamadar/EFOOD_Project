@@ -1,0 +1,57 @@
+.person_image{
+    width: 100%;
+    padding-top: 90px;
+}
+
+.food_text{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 66px;
+    line-height: 78px;
+    text-transform: capitalize;
+    color: #363853;
+    padding-top: 200px;
+    padding-bottom: 23px;
+}
+
+span{
+   color: #FF7A50;; 
+}
+
+.text_info{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: capitalize;
+     color: #363853;
+     
+}
+
+.explore_btn{
+    background: #FF7A50; 
+    box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+    border-radius: 5px;  
+    padding: 12px 21px;
+    border: none;
+    color: white;
+    margin-right: 30px;
+}
+
+.download_link{
+    
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+text-decoration-line: underline;
+color: #363853;
+}
+
+.boxes{
+    padding-top: 40px;
+}
